@@ -1,0 +1,27 @@
+[submodule "ros_interfaces/awareness_interfaces"]
+	path = ros_interfaces/awareness_interfaces
+	url = https://github.com/lsiteam/awareness_interfaces.git
+[submodule "ros_interfaces/behavior_interfaces"]
+	path = ros_interfaces/behavior_interfaces
+	url = https://github.com/lsiteam/behavior_interfaces.git
+[submodule "ros_interfaces/carla_interfaces"]
+	path = ros_interfaces/carla_interfaces
+	url = https://github.com/lsiteam/carla_interfaces.git
+[submodule "ros_interfaces/perception_interfaces"]
+	path = ros_interfaces/perception_interfaces
+	url = https://github.com/lsiteam/perception_interfaces.git
+[submodule "ros_interfaces/planning_interfaces"]
+	path = ros_interfaces/planning_interfaces
+	url = https://github.com/lsiteam/planning_interfaces.git
+[submodule "ros_interfaces/vehicle_interfaces"]
+	path = ros_interfaces/vehicle_interfaces
+	url = https://github.com/lsiteam/vehicle_interfaces.git
+[submodule "ego_vehicle_description"]
+	path = ego_vehicle_description
+	url = https://github.com/lsiteam/ego_vehicle_description.git
+[submodule "carla_vehicle"]
+	path = carla_vehicle
+	url = https://github.com/dayaguec/carla_vehicle.git
+[submodule "map"]
+	path = map
+	url = https://github.com/dayaguec/map.git
